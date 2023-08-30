@@ -1,0 +1,108 @@
+html,body{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: red;
+
+}
+
+.pimg1{
+background-image: url(https://wallpapers.com/images/high/4k-laptop-waterfalls-landscape-hdl3lglb4s4th2am.webp);
+min-height: 100%;
+position: relative;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.ptext{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 60px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+
+
+}
+
+.textbg{
+    background: black;
+    color: white;
+    padding: 20px;
+
+
+}
+
+.section{
+    padding: 50px  80px;
+    text-align: center;
+    font-size: 32px;
+    word-spacing: 8px;
+    
+}
+
+.section-light{
+    background-color: black;
+    color: white;
+}
+
+.section h2{
+    font-size: 70px;
+}
+
+.section p{
+    font-size: 35px;
+    line-height: 40px;
+}
+
+
+.pimg2{
+    background-image: url(https://wallpapers.com/images/hd/4k-nature-lake-and-mountain-azf9im6zp97ftghu.jpg);
+    min-height: 100%;
+    position: relative;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+
+
+.section2{
+    padding: 30px;
+    text-align: center;
+    
+}
+
+.section2 h2{
+    color: white;
+    font-size: 70px;
+}
+
+.section2 p{
+    color: white;
+    font-size: 30px;
+}
+.section-dark{
+    background-color: black;
+}
+
+
+    
+
+
+
+
+    .pimg3{
+        background-image: url();
+        min-height: 400px;
+        }
+
+        .pimg1,
+        .pimg2{
+            background-attachment: fixed;
+        }
